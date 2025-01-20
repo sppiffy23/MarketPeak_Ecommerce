@@ -8,8 +8,8 @@ The second phase is to deploy "Marketpeak_Ecommerce and i started by setting up 
 i created and launched an instance named Market peak using the Amazon linux AMI 
 i created a pemkey when launching the instance and used it to connect to yhe instance using the command  ssh -i "marketpeak.pem" ec2-user@ec2-3-93-237-51.compute-1.amazonaws.com
 i generated an SSH keypair using the command ssh-keygen , I named it "RSAKEY" and it generated a fingerprint key and also a randomart image 
-i learnt what a passphrase was: used to add extr  a layer of security 
-i cd into my .ssh , and i was able to dosplay and copy my public key .
+i learnt what a passphrase was: used to add extra layer of security 
+i cd into my .ssh , and i was able to display and copy my public key .
 i attached the ssh key to my github account 
 
 
