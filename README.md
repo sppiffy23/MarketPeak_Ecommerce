@@ -13,4 +13,4 @@ i cd into my .ssh , and i was able to display and copy my public key .
 i attached the ssh key to my github account 
 
 
-i installed a  Apache HTTP server web server on my instance using the command "sudo yum update -y"
+i installed a  Apache HTTP server web server on my instance using the command "sudo yum update -y
